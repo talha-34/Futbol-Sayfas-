@@ -1,5 +1,5 @@
-# Futbol-Sayfası
-Futbolla ilgili önemli kişi ve bilgileri sunuyorum
+<!--# Futbol-Sayfası-->
+<!--FUTBOL İLE İLGİLİ BİLGİLERİ SUNUYORUM-->
 <!DOCTYPE HTML>
 <head>
   <title>Futbol Hakkında</title>
